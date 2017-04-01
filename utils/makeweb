@@ -1,0 +1,4 @@
+#!/bin/bash
+# makeweb - generates web page for tilder
+
+make -C ~minerobber/public_html/tilder -B
